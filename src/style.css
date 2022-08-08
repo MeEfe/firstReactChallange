@@ -1,0 +1,67 @@
+.img{
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 19px;
+}
+
+.container-1{
+    display: flex;
+    background-color: rgb(22, 22, 46);
+}
+
+.nav-titel{
+    color: #61DBFB;
+    flex: 3;
+    padding-left: 8px;
+    font-size: 27px;
+    padding-top: 2px;
+}
+
+.nav-titel-2{
+    color: rgb(216, 202, 202);
+    flex: 1;
+    padding-top: 30px;
+    font-weight: 550;
+    padding-left: 1680px;
+}
+
+ul > li {
+    font-size: 20px;
+    padding-block: 7px;
+    color: lightgrey;
+}
+
+ul > li::marker {
+    color: #61DBFB;
+    font-size: 1.4rem;
+  }
+
+#root{
+    background-color: rgb(14, 14, 36);
+}
+
+body{
+    font-family: Inter, sans-serif;
+}
+
+.class-titel{
+    color: lightgrey;
+    margin-left: 10px;
+    font-weight: 800;
+    letter-spacing: -0..05em;
+}
+
+.img-2{
+    height: 200px;
+    width: 220px;
+    position: absolute;
+    margin-top: -220px;
+    left: 2310px;
+}
+
+#background-Logo{
+    width: 220px;
+    height: 200px;
+}
+
